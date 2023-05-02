@@ -1,0 +1,233 @@
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.exe
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Default_Image\Default_Image.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031206090676file_example_JPG_500kB.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031206201789girl.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031212120588imgpsh_fullsize_anim.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031212176169tom.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031214493005girl.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303031312202284Banner.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303041112333471imgpsh_fullsize_anim.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303041401217950-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303041646250466-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131433234287-1.PNG
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131437099801-Screenshot (78).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131437153790-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131437192623-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131439021568-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131440286365-Screenshot (78).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131440286402-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131440286424-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131443233802-Screenshot (78).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131443259077-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131443259117-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131444195753-Screenshot (78).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131444250771-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131444285296-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131444428643-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131459418448-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131500109479-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131504162132-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131509237102-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131511264552-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131515218428-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131517065961-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131517507001-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131522293471-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131533580282-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131534477248-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131547206657-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131550371348-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131551166668-event-3.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131553025067-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131619257398-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131624078647-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131627326346-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131631387616-Screenshot (10).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131633403977-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131635024266-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131635032322-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131636456085-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131637314002-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131642224570-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131642444404-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131644306750-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131644450939-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131655548273-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131656047397-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131657412068-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131658023907-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131702189308-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131702336083-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131731403484-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131732025891-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131736055641-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131736243008-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131737551511-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131740256824-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131744004271-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131744062660-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131746436563-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131746484333-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131746531813-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131749139330-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131749139489-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131749139520-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131758137856-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131758146787-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303131758155600-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303140922272160-Screenshot (67).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303140922280417-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303140922288417-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150021444437-asp2 all table view.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150021445127-js4.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150021445305-product get.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150021445416-Screenshot_1.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150043127992-gofish-logo.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150043128087-image_2021_09_29T09_36_01_489Z.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150527046193-bird.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150540283783-Screenshot (79).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303150540284347-Screenshot (80).png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303151642314607-20 rupees.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303161702008121-bird.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303161702025443-Holiday_List_2022-2023.JPEG
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171117135266-event-1.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171207441251-bird.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171207450636-event-4.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171207459793-event-5.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171211144166-bird.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171211153240-event-4.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171211162490-event-5.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171216145695-20 rupees.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171216154651-event-1.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171216163534-event-2.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171300399379-event-2.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171300513296-event-7.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171300582603-file_example_JPG_500kB.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171303195904-bird.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171303267220-event-1.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171303327080-event-2.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171541092954-arc-logo.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303171542597140-arc-logo.jpg
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\202303200910159295-Holiday_List_2022-2023.JPEG
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Logo\It-Idol.png.jfif
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\wwwroot\Logo\ItIdol.png
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.runtimeconfig.json
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.pdb
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Grpc.Core.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Grpc.Core.Api.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Humanizer.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.Bcl.HashCode.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Composition.AttributedModel.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Composition.Convention.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Composition.Hosting.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Composition.Runtime.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Composition.TypedParts.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Runtime.Caching.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.Views.dll
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.Views.pdb
+D:\Chintan_patel\Live_Project\InventoryManagementBackend\InventoryManagementSystem\obj\Release\net5.0\PubTmp\Out\InventoryManagementSystem.deps.json
